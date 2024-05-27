@@ -1,6 +1,6 @@
 # Introduction
 
-This is the implementation of the paper, "WIPE, a write-optimized learned index for persistent memory".
+This is the implementation of the paper, "WIPE, a write-optimized learned index for persistent memory" (TACO 2023).
 
 ## Compile & Run
 
